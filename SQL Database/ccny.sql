@@ -7,7 +7,7 @@
 -- Server version: 8.0.26
 -- PHP Version: 8.0.10
 --
--- Database: `users`
+-- Database: `ccny`
 --
 CREATE DATABASE `ccny`;
 
